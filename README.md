@@ -23,7 +23,7 @@ Call "parse_dicom()" function, passing the path to the dicom file and the path t
 
 ```python
 
-import dicom_mcnp_parser
+from dicom_mcnp_parser import parse_dicom
 
 parse_dicom("80_dicom_125mm.dcm", "80_dicom_125mm.imp")
 
