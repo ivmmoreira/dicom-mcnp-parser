@@ -100,5 +100,7 @@ def parse_dicom(path_dicom, export_path):
     data_card(file)
     file.close()
 
+    return 0
+
 
 parse_dicom("80_dicom_125mm.dcm", "80_dicom_125mm.imp")
