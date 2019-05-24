@@ -8,6 +8,7 @@ Supported by Høgskulen på Vestlandet and Tianjin University of Technology.
 
 # Installation
 
+This script requires you to install pydicom(https://pydicom.github.io).
 Download the dicom_mcnp_parser.py file and add to your project.
 
 # Usage
