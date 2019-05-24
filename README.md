@@ -33,5 +33,5 @@ parse_dicom("80_dicom_125mm.dcm", "80_dicom_125mm.imp")
 
 # Contributors
 
-@ivmmoreira
-@ChengYi1997
+* Cheng Yi ([ChengYi1997][])
+* Icaro Valgueiro Malta Moreira ([ivmmoreira][])
