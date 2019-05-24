@@ -8,20 +8,30 @@ Supported by Høgskulen på Vestlandet and Tianjin University of Technology.
 
 # Installation
 
-TODO ADD PIP
+Download the dicom_mcnp_parser.py file and add to your project.
 
 # Usage
 
 Import the package "dicom_mcnp_parser".
 
-TODO ADD CODE
+```python
+import dicom_mcnp_parser
+```
 
 Call "parse_dicom()" function, passing the path to the dicom file and the path to the exported imp(mcnp) file.
 
+```python
+
+import dicom_mcnp_parser
+
+parse_dicom("80_dicom_125mm.dcm", "80_dicom_125mm.imp")
+
+```
 # Features
 
-TODO
-
-# Documentation
+ - Parser from MCNP
 
 # Contributors
+
+@ivmmoreira
+@ChengYi1997
