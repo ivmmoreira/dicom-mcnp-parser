@@ -5,6 +5,9 @@ DICOM-MCNP-Parser is a DICOM to MCNP parser written in python. This parser can r
 This code was developed by Cheng Yi in his graduation thesis under the supervision of Ilker Meric and Icaro Valgueiro Malta Moreira.
 
 Supported by Høgskulen på Vestlandet and Tianjin University of Technology.
+<br>
+<img src="https://www.nokut.no/globalassets/logo/1000x400/hvl_logo.png" width="240" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/3b/Tianjin_University_of_Technology_logo.png" width="100" height="100">
 
 # Installation
 
