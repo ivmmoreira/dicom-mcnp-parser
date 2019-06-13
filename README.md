@@ -33,6 +33,7 @@ parse_dicom("80_dicom_125mm.dcm", "80_dicom_125mm.imp")
 ```
 
 If you use the phantom file provided by this repository, you should cite the following paper:
+
 Giacometti, V., Guatelli, S., Bazalova-Carter, M., Rosenfeld, A.B., Schulte, R.W., "Development of a high resolution voxelised head phantom for medical physics applications", (2017) Physica Medica, 33, pp. 182-188  
 
 # Features
