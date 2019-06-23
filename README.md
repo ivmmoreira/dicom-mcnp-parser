@@ -36,6 +36,11 @@ If you use the phantom file provided by this repository, you should cite the fol
 
 Giacometti, V., Guatelli, S., Bazalova-Carter, M., Rosenfeld, A.B., Schulte, R.W., "Development of a high resolution voxelised head phantom for medical physics applications", (2017) Physica Medica, 33, pp. 182-188  
 
+# Example
+Here is an example image as visualized in the Moritz visualization software.
+
+<img src="Slice_90.jpg">
+
 # Features
 
  - Parser from MCNP
