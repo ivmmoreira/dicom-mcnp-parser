@@ -1,6 +1,6 @@
 # DICOM to MCNP parser
 
-DICOM-MCNP-Parser is a DICOM to MCNP parser written in python. This parser can read a DICOM file section and convert to MCNP file.
+DICOM-MCNP-Parser is a DICOM to MCNP parser written in python. This parser can read a DICOM file section and convert to an MCNP input file. This is strictly a "geometry-converter" with the purpose of converting the informaton contained within a DICOM image into an MCNP input using macrobodies. After the conversion, the user still has to set up physics, particle importances, source as well as tallies tailored to her/his needs. 
 
 This code was developed by Cheng Yi in his graduation thesis under the supervision of Ilker Meric and Icaro Valgueiro Malta Moreira.
 
