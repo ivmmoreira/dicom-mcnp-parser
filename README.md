@@ -49,6 +49,8 @@ Here is an example image as visualized in the Moritz visualization software.
 
 * Cheng Yi ([ChengYi1997][])
 * Icaro Valgueiro Malta Moreira ([ivmmoreira][])
+* Ilker Meric ([ilkermeric][])
 
 [ChengYi1997]:            https://github.com/ChengYi1997
 [ivmmoreira]:  https://github.com/ivmmoreira
+[ilkermeric]:  https://github.com/ilkermeric
