@@ -43,7 +43,7 @@ Here is an example image as visualized in the Moritz visualization software.
 
 # Features
 
- - Parser from MCNP
+ - Parser for MCNP
 
 # Contributors
 
