@@ -39,7 +39,7 @@ Giacometti, V., Guatelli, S., Bazalova-Carter, M., Rosenfeld, A.B., Schulte, R.W
 # Example
 Here is an example image as visualized in the Moritz visualization software.
 
-<img src="Slice_90.jpg">
+<img src="HeadPhantom_MCNP.png">
 
 # Features
 
